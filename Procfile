@@ -1,1 +1,2 @@
-worker: python Untitled2.ipynb
+worker: python Untitled2.py
+
