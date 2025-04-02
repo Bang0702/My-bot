@@ -3,5 +3,5 @@ pandas
 pandas_ta
 asyncio
 nest_asyncio
-telegram bot
+telegram 
 pytz
