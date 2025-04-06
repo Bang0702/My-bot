@@ -12,16 +12,16 @@ import pytz
 nest_asyncio.apply()
 
 # ✅ Telegram Bot Credentials
-TELEGRAM_BOT_TOKEN = "8109127375:AAFAjPAtcSTSrmjPYnb7JOBB59OnMUpR6Wo"
-TELEGRAM_CHAT_ID = "1058611753"
+TELEGRAM_BOT_TOKEN = "abc"
+TELEGRAM_CHAT_ID = "abc"
 
 # ✅ Initialize Telegram Bot
 bot = Bot(token=TELEGRAM_BOT_TOKEN)
 
 # ✅ Initialize Delta Exchange API
 exchange = ccxt.delta({
-    'apiKey': 'eiSk0NrGYUcKLwCmAwdivzpguN8nf9',
-    'secret': 'un1uOVSLdj2D3wY5WSzeHq6EL2S2wWlc8wuVXOeL1fC43Ji0ZpCzzGE5i1HK'
+    'apiKey': 'abc',
+    'secret': 'abc'
 })
 
 # ✅ Set Your Timezone (Change if needed)
