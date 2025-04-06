@@ -1,3 +1,3 @@
-worker: python untitled2.py
+worker: python bot.py
 
 
